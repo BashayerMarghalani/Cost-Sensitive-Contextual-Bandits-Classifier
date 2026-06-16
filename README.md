@@ -19,20 +19,20 @@ The website highlights:
 ## Repository structure
 
 ```text
-.
-├── index.html              # Main paper webpage
-├── styles.css              # Website styling
-├── CITATION.cff            # Citation metadata; update after acceptance
-├── README.md               # Repository documentation
-├── .nojekyll               # Ensures GitHub Pages serves static files directly
-└── assets/
-    ├── pipeline.png        # Method pipeline figure
-    ├── feature_space.png   # Feature-space visualization
-    ├── th_rate.png         # Tumour-to-healthy error analysis
-    ├── healthy_precision.png
-    ├── validation_test_accuracy.png
-    └── precision_recall.png
+Cost-Sensitive-Contextual-Bandits-Classifier/
+├── index.html
+├── styles.css
+├── CITATION.cff
+├── README.md
+├── .nojekyll
+├── Cost_Sensitive_Learning_using_Contextual_Bandits_for_Medical_Image_Classification_on_Small_Datasets.pdf
+├── feature_space.png
+├── H prec.png
+├── T-H rate accross datasets and models_new.png
+├── val and test.png
+└── Precision and recall for all policies across all datasets B BC B2.png
 ```
+
 
 ## Citation
 
